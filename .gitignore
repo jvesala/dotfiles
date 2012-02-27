@@ -1,1 +1,7 @@
 .vim/bundle/command-t/.bundle/config
+.vim/.VimballRecord
+.vim/autoload/haskellmode.vim
+.vim/compiler/
+.vim/doc/
+.vim/ftplugin/
+.vim/haskellmode.config
