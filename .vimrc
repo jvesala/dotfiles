@@ -1,4 +1,4 @@
-set number
+"set number
 set ruler
 set cursorline
 set incsearch
@@ -6,6 +6,8 @@ set ignorecase
 set title
 set autoread
 set laststatus=2
+set wildignore=*.o,*.lo,*.class,*.jar
+
 
 "set statusline=%F%m%r%h%w[%L][%{&ff}]%y[%p%%][%l,%v]
 
