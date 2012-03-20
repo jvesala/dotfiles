@@ -7,6 +7,7 @@ set title
 set autoread
 set laststatus=2
 set wildignore=*.o,*.lo,*.class,*.jar,*.jpg,*.gif,*.png
+set timeoutlen=250
 
 "set statusline=%F%m%r%h%w[%L][%{&ff}]%y[%p%%][%l,%v]
 
