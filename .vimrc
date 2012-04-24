@@ -25,6 +25,12 @@ nnoremap <C-e> <End>
 nnoremap <Space> <C-f>
 nnoremap <D-Space> <C-b>
 
+"C-w + (s|v) 
+nnoremap <leader>k :wincmd k<CR>
+nnoremap <leader>j :wincmd j<CR>
+nnoremap <leader>h :wincmd h<CR>
+nnoremap <leader>l :wincmd l<CR>
+
 syntax enable
 "set background=dark
 set background=light
