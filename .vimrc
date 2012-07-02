@@ -31,6 +31,8 @@ nnoremap <leader>j :wincmd j<CR>
 nnoremap <leader>h :wincmd h<CR>
 nnoremap <leader>l :wincmd l<CR>
 
+set list! listchars=tab:»·,trail:·,nbsp:☠
+
 syntax enable
 "set background=dark
 set background=light
