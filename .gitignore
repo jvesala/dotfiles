@@ -5,3 +5,4 @@
 .vim/doc/
 .vim/ftplugin/
 .vim/haskellmode.config
+.vim/.netrwhist

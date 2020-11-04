@@ -37,11 +37,8 @@ syntax enable
 "set background=dark
 set background=light
 "let g:solarized_termcolors=256
-let g:solarized_termtrans=1
-colorscheme solarized
+"let g:solarized_termtrans=1
+"colorscheme solarized
 
-au Bufenter *.hs compiler ghc
 syntax on
 filetype plugin on
-let g:haddock_browser = "open"
-let g:haddock_browser_callformat = "%s %s"
